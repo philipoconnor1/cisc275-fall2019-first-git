@@ -1,0 +1,2 @@
+username: philipoconnor1
+url: https://github.com/philipoconnor1/cisc275-spring2020-first-git.git
